@@ -2,16 +2,15 @@
 # Word embeddings - GloVE and Word2vec
 
 The purpose of this project is to draw insights on GloVe 840B Common
-Crawl pretrained word embeddings (@ Pennington, Socher, and Manning
-2015) and Word2Vec Google News pretrained word embeddings (Mikolov et
-al. 2013).
+Crawl pretrained word embeddings (Pennington, Socher, and Manning 2015)
+and Word2Vec Google News pretrained word embeddings (Mikolov et al.
+2013).
 
-The struture is the following:
+The structure is the following:
 
--   `utils/`: contains utilities used in the analysis
--   `analysis.ipynb` A quarto file containing the analysis.
--   `data/` : The data folder contains only the tokens from GloVe 300
-    dense word embeddings pretrained on 840 billion tokens.
+- `analysis.ipynb` A quarto file containing the analysis.
+- `data/` : The data folder contains only the tokens from GloVe 300
+  dense word embeddings pretrained on 840 billion tokens.
 
 ## Requirements:
 

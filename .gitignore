@@ -2,3 +2,4 @@ data/*
 !data/.gitkeep
 !data/glove.840B.300d.wordsonly.txt
 .ipynb_checkpoints/
+analysis_files/
