@@ -1,0 +1,6 @@
+data/*
+!data/.gitkeep
+!data/glove.840B.300d.wordsonly.txt
+analysis_files/
+analysis.html
+.ipynb_checkpoints/
